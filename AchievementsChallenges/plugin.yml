@@ -1,0 +1,12 @@
+name: AchievementsChallenges
+version: 1.2
+api-version: 1.16
+author: Kamen
+main: me.kamen.achievements.Main
+description: Customized achievements for fun
+
+commands:
+  listall:
+    description: list all the custom achievements
+  removeall:
+    description: removes all the custom achievements that you have earned
