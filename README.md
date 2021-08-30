@@ -6,7 +6,7 @@ Custom Achievements is a plugin server game for minecraft: java edition.
 
 ## Installation
 
-**I recommend downloading the plugin from [spigot](https://www.spigotmc.org/resources/block-shuffle.89056/), because it's only the plugin `jar` file.**
+**I recommend downloading the plugin from [spigot](https://www.spigotmc.org/resources/custom-achievements.95831/), because it's only the plugin `jar` file.**
 
 But if you want, you can download the project.
 The export it as a `.jar` file and paste it in your minecraft plugins folder. Make sure the server is running on 1.16.x version.
