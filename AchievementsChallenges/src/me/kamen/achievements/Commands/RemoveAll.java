@@ -26,6 +26,8 @@ private Main plugin;
 		
 		plugin.aClass.removeAllAchievements(p);
 		
+		p.sendMessage(ChatColor.DARK_RED + "\nAll completed achievements are now reset!");
+		
 		return false;
 	}
 
